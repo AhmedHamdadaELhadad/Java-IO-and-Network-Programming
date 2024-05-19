@@ -1,5 +1,9 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(ÆÇÎÀ8·Äş”ù1J$602bd564-27c9-404a-87b0-f3b3161ddeaf
-m	java:S106!"+Replace this use of System.out by a logger.(Áß‡Ü8·Äş”ù1J$5ff0c474-c8a1-4146-baf3-64faeb70a534
-m	java:S106/"+Replace this use of System.out by a logger.(ÆÇÎÀ8·Äş”ù1J$27342b2e-b121-4f02-a4aa-03c9ce415691
-r	java:S1065"+Replace this use of System.out by a logger.(Ïø÷¿üÿÿÿÿ8·Äş”ù1J$097774d4-6a16-437b-8673-2d595b9128cb
+m	java:S106"+Replace this use of System.out by a logger.(ÆÇÎÀ8Ğ•¸•ù1J$4c2bc3d7-358e-4ab3-8ac7-df13e6642c82
+m	java:S106""+Replace this use of System.out by a logger.(Áß‡Ü8Ğ•¸•ù1J$05ff5472-27d5-4738-9eb0-aed3ce481154
+m	java:S1060"+Replace this use of System.out by a logger.(ÆÇÎÀ8Ğ•¸•ù1J$51083806-f300-4b3c-a83e-e66c1788ecec
+r	java:S1066"+Replace this use of System.out by a logger.(Ïø÷¿üÿÿÿÿ8Ğ•¸•ù1J$95199011-6854-4bb2-9a9e-803ec17f37ca
+r	java:S106="+Replace this use of System.out by a logger.(÷ª°Øøÿÿÿÿ8Ğ•¸•ù1J$e11fd5c6-47dc-4fd2-ad54-8f81b50db67b
+q
+java:S1905B")Remove this unnecessary cast to "String".(å™ùÿÿÿÿ8à•¸•ù1J$238ea18a-3485-4bf5-aa6d-14ab6bea8300
+r	java:S106C"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8à•¸•ù1J$bd7b672d-a308-4280-885d-2f699f640589
