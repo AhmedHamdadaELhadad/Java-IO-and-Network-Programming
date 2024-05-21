@@ -13,7 +13,8 @@ public class BIStream {
 
         bufferReaderChar();
         byteStramIn();
-
+        // can Read String line
+        bufferReaderString();
     }
 
 
@@ -54,6 +55,18 @@ public class BIStream {
             }while (c1!='q');
 
 }
+    public static void bufferReaderString() throws IOException {
+        // inputStreamReader is convert Byte Stream to Buffer
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        System.out.println("Enter exit to EXit ");
+        String s;
 
+        do {
+            //read method to read one by one character even enter array of character
+           s = (String) bufferedReader.readLine();
+            System.out.println(s);
+        } while (!"exit".equalsIgnoreCase(s));
+
+    }
 
 }
