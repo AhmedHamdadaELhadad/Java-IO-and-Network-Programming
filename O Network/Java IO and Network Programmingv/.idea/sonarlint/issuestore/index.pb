@@ -34,3 +34,13 @@ A
 src/FIStream.java,c\e\cebbd165d738b14cf6015f8ff6f013b2f944773c
 Å
 Q.idea/sonarlint/securityhotspotstore/e/0/e08e1c19b85afb118105bcdd8bf47fab9f701474,c\8\c8493472a860c81bb32280a13d12ca79aaad56f4
+U
+%src/demoserializable/RotateImage.java,c\2\c2e362d78d528e5c799bfd6e94ee6d924d967771
+D
+src/RotateImage.java,0\8\08bd983c879c8b39cefb2f301873639592459167
+N
+src/RotateMatrix90Degrees.java,7\8\786ec7a14866a6a7ab6fa544edd0e3469e9e4f92
+P
+ src/socket/DemoServerScoket.java,b\8\b844f10f6b752da3c9eadcaffd56397a580cb400
+P
+ src/socket/DemoCilentScoket.java,b\a\ba43664f81702010b6b619c7fbe516ea9f05217a
